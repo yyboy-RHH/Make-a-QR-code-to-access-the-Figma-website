@@ -43,9 +43,12 @@ b.預設可能顯示為：
 c.點擊它，選擇：
 ．點擊Anyone  can view >（持連結者 → 可檢視）
 
+d.What can they do選擇View
+
+注意事項
+•	如果你想讓別人也能編輯，可以選擇 Anyone with the link → can edit，但一般分享 QR Code 建議只開放「View」比較安全。
+•	如果是 Figma Team 專案，你可能要確保檔案不是設為私人（Private），否則外部無法訪問。
+
+
 '''
 
-from PIL import Image
-
-img = Image.open("1.jpg")
-img.show()
