@@ -49,9 +49,9 @@ b.預設可能顯示為：
 ．Only invited people（僅受邀者）
 
 c.點擊它，選擇：
-．點擊Anyone  can view >（持連結者 → 可檢視）
+．點擊Anyone  can view >（持連結者 → 可檢視) ,參照Pic. 1 (from README)
 
-d.What can they do選擇View
+d.What can they do選擇View ,參照Pic. 2 (from README)
 
 注意事項
 •	如果你想讓別人也能編輯，可以選擇 Anyone with the link → can edit，但一般分享 QR Code 建議只開放「View」比較安全。
