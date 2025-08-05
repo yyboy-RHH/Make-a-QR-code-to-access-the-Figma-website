@@ -1,6 +1,7 @@
 
 '''
-如何製作可以連上Figma網站的QR code??
+
+Q1: 如何製作可以連上Figma網站的QR code??
 
 A:
 1.打開免費 QR Code 產生網站（例如）：
@@ -19,12 +20,19 @@ A:
 
 注意事項
 •	如果是 Figma 檔案連結，請確認分享權限：
-  o	你需要將檔案設為 Anyone with the link can view（持連結者可檢視），這樣掃描 QR Code 的人才能打開。
+    你需要將檔案設為 Anyone with the link can view（持連結者可檢視），這樣掃描 QR Code 的人才能打開。
 
 •	如果是 Figma 社群作品（Community），公開連結本身就能直接存取。
 
 
-Figma 連結需要設為「Anyone with the link can view（持連結者可檢視）怎麼設定?
+'''
+
+***
+
+'''
+
+
+Q2: Figma 連結需要設為「Anyone with the link can view（持連結者可檢視）怎麼設定?
 
 A:  
 步驟 1：開啟你的 Figma 檔案
