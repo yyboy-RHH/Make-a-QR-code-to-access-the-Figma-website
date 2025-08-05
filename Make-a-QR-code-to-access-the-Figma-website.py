@@ -43,7 +43,7 @@ a.右上角點擊 Share / 分享 按鈕
 ．圖示是一個 藍色的「Share」按鈕
 
 步驟 3：修改連結權限
-a.在彈出的分享視窗中，找到 Link sharing（連結分享） 區塊
+a.在彈出的分享視窗中，會是Share this board區塊
 
 b.預設可能顯示為：
 ．Only invited people（僅受邀者）
