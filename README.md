@@ -9,7 +9,7 @@ Summary:
 
 Reference Pics:  
 Pic. 1   
-<img width="902" height="394" alt="image" src="https://github.com/user-attachments/assets/10bf178b-ed42-405c-b340-c57ca7586b02" />
+<img width="541" height="236" alt="image" src="https://github.com/user-attachments/assets/d1ceca66-6d9f-452a-975a-07336d7f4658" />
 
 Pic. 2  
  <img width="551" height="240" alt="image" src="https://github.com/user-attachments/assets/520d1331-9954-42f5-83e9-52688f4589cc" />
