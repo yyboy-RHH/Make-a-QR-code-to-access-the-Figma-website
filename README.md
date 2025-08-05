@@ -3,7 +3,7 @@
 Content:  
 製作 Figma QR Code 簡單快速，關鍵在於確保 Figma 連結正確且分享權限設定為「Anyone with the link can view」。使用免費 QR Code 工具即可生成，下載後可分享或列印使用。  
 
-\n
+\n\n
 
 Reference Pics:  
 Pic. 1  
