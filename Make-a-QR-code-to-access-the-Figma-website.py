@@ -43,9 +43,9 @@ b.預設可能顯示為：
 c.點擊它，選擇：
 ．點擊Anyone  can view >（持連結者 → 可檢視）
 
+'''
+
 from PIL import Image
 
 img = Image.open("1.jpg")
 img.show()
-
-'''
