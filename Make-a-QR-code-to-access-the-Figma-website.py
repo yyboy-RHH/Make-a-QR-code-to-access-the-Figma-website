@@ -2,13 +2,14 @@
 '''
 如何製作可以連上Figma網站的QR code??
 
+A:
 1.打開免費 QR Code 產生網站（例如）：
 •	QR Code Generator
 •	QR Code Monkey
 
 2.複製 Figma 網址
     例如你的 Figma 網址是：
-    https://www.figma.com/file/xxxxxxxx/ProjectName
+    hhttps://www.figma.com/file/xxxxxxxx/ProjectName
 
 3.在QR Code 產生器網站的網址欄貼上 Figma 網址 → 選擇 URL 模式
 
@@ -19,11 +20,32 @@
 注意事項
 •	如果是 Figma 檔案連結，請確認分享權限：
   o	你需要將檔案設為 Anyone with the link can view（持連結者可檢視），這樣掃描 QR Code 的人才能打開。
+
 •	如果是 Figma 社群作品（Community），公開連結本身就能直接存取。
 
 
 Figma 連結需要設為「Anyone with the link can view（持連結者可檢視）怎麼設定?
 
-我來詳細教你 如何把 Figma 連結設定成「Anyone with the link can view（持連結者可檢視）」，這樣別人才可以掃 QR Code 直接開啟檔案：
+A:  
+步驟 1：開啟你的 Figma 檔案
+a.登入 Figma
+
+步驟 2：開啟分享設定
+a.右上角點擊 Share / 分享 按鈕
+．圖示是一個 藍色的「Share」按鈕
+
+步驟 3：修改連結權限
+a.在彈出的分享視窗中，找到 Link sharing（連結分享） 區塊
+
+b.預設可能顯示為：
+．Only invited people（僅受邀者）
+
+c.點擊它，選擇：
+．點擊Anyone  can view >（持連結者 → 可檢視）
+
+from PIL import Image
+
+img = Image.open("1.jpg")
+img.show()
 
 '''
