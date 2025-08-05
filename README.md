@@ -1,1 +1,1 @@
-# Make-a-QR-code-to-access-the-Figma-website
+# SOP for making a QR code to access the Figma Website
